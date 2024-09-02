@@ -8,4 +8,5 @@ This is a collection of tutorials that cover the fields of math used in machine 
       - Intended Audience
    - Chapter 2:
       - Getting Good with the Terms
+        - Events, Random Variables, Sample Spaces, Probability
    
