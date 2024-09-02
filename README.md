@@ -7,5 +7,5 @@ This is a collection of tutorials that cover the fields of math used in machine 
       - The Importance of Probability and Statistics in ML
       - Intended Audience
    - Chapter 2:
-      - Getting Good with the The terms
+      - Getting Good with the Terms
    
