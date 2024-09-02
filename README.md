@@ -3,9 +3,9 @@ This is a collection of tutorials that cover the fields of math used in machine 
 
 1) Probability and Statistics Tutorial:
    - Chapter 1:
-     --Overview
-     --The Importance of Probability and Statistics in ML
-     --Intended Audience
-   -Chapter 2:
---Getting Good with the The terms
+   -- Overview
+   -- The Importance of Probability and Statistics in ML
+   -- Intended Audience
+   - Chapter 2:
+-- Getting Good with the The terms
    
