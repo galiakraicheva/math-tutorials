@@ -3,7 +3,7 @@ This is a collection of tutorials that cover the fields of math used in machine 
 
 
 1) Notes on HELM project:
-   -HELM Workbook 1 Basic Algebra
+   - HELM Workbook 1 Basic Algebra
 
 2) Probability and Statistics Tutorial:
    - Chapter 1:
