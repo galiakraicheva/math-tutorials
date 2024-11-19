@@ -1,5 +1,5 @@
 # math-tutorials
-This is a collection of tutorials that cover the fields of math used in machine learning and is inspired by my studies in the International University of Applied Sciences, Berlin.
+This is a collection of tutorials that cover the fields of math commonly used in machine learning and is inspired by my studies in the International University of Applied Sciences, Berlin. Work in progress
 
 
 1) Notes on HELM project:
