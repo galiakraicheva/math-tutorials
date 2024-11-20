@@ -5,6 +5,7 @@ This is a collection of tutorials that cover the fields of math commonly used in
 1) Notes on HELM project:
    - [HELM Workbook 1: Basic Algebra](helm_1_basic_algebra.ipynb)
    - [HEML Workbook 2: Basic Functions](helm_2_basic_functions.ipynb)
+   - HELM Workbook 3: Equations, Inequalities, Partial Fractions
 
 2) Probability and Statistics Tutorial:
    - Chapter 1:
