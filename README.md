@@ -11,7 +11,6 @@ This is a collection of tutorials that cover the fields of math commonly used in
    - Chapter 1:
       - Overview
       - The Importance of Probability and Statistics in ML
-      - Intended Audience
    - Chapter 2:
       - Getting Good with the Terms
         - Events, Random Variables, Sample Spaces, Probability
