@@ -21,4 +21,8 @@ This is a collection of tutorials that cover the fields of math commonly used in
    - Chapter 3: Differential Calculus
    - Chapter 4: Integral Calculus
    - Chapter 5: Differential Equations
+  
+4) Algorithms and Data Structures:
+   - Intro: 
+6) 
    
